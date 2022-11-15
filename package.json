@@ -1,0 +1,22 @@
+{
+  "name": "nodebasic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ly3012/NodeBasic.git"
+  },
+  "author": "Ly1602",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ly3012/NodeBasic/issues"
+  },
+  "homepage": "https://github.com/ly3012/NodeBasic#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
